@@ -1,0 +1,14 @@
+Untuk login Admin
+	link: localhost/cuti-online/admin/
+	username: admin
+	password: admin
+
+Untuk login pegawai
+	link: localhost/cuti-online/index.php
+	username: helmi
+	password: helmi
+
+Untuk login staff
+	link: localhost/cuti-online/hrd/
+	username: ryfan
+	password: ryfan
